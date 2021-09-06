@@ -40,7 +40,7 @@
 |Operator name|Operator|Example|
 |-|-|-|
 |And|&|6&3,2|
-|Or|||10|10,10|
+|Or|/||10/|10,10|
 |Xor|^|2^2,0|
 |Not|~|~9,-10|
 |Left shift|<<|10<<2,40|
