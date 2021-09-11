@@ -12,23 +12,25 @@
 * Reverse() method
 * Sort()d() method
 
-``` python
 ### Append() method
+
+``` python
 a=["apple","mango","orange"]
 b=["ford","bmw","rollsroyce"]
 a.append(b)
-
->>a=['apple','mango','orange',['ford','bmw','rollsroyce']]
+==>a=['apple','mango','orange',['ford','bmw','rollsroyce']]
 ```
-``` python
+
+
 ### Clear() method
+``` python
 a=["apple","banana","orange"]
 a.clear()
-
->>a=[]
+==> a=[]
 ```
-``` python
+
 ### Copy() method
+``` python
 a=["apple","banana","orange"]
 a.copy()
 
