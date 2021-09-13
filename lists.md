@@ -10,7 +10,7 @@
 * Pop() method
 * Remove() method
 * Reverse() method
-* Sort()d() method
+* Sort() method
 
 ### Append() method
 
