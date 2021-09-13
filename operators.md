@@ -33,8 +33,8 @@
 |Equal|==|a=100,b=35,a==b,False|
 |Greater than|>|a=100,b=35,a>b,True|
 |Less than|<|a=100,b=35,a<b,False|
-|Greater than or equal to|a=100,b=35,a>=b,True|
-|Less than or Equal to|a=100,b=35,a<=b,False|
+|Greater than or equal to|>=|a=100,b=35,a>=b,True|
+|Less than or Equal to|<=|a=100,b=35,a<=b,False|
 |Not Equal to|!=|a=100,b=35,a!=b,True|
 ### Bitwise operator
 |Operator name|Operator|Example|
