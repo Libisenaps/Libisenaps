@@ -36,58 +36,66 @@ a.copy()
 
 >>a=['apple','banana','orange']
 ```
-``` python
+
 ### Count() method
+``` python
 a=["apple","banana","apple","orange"]
 x=a.count("apple")
 
 >>x=2
 ```
-``` python
+
 ### Extend() method
+``` python
 a=["apple","mango","orange"]
 b=["ford","bmw","rollsroyce"]
 a.extend(b)
 
 >>a=['apple','mango','orange','ford','bmw','rollsroyce']
 ```
-``` python
+
 ### Index() method
+``` python
 a=["apple","mango","orange"]
 x=a.index("orange")
 
 >>x=2
 ```
-``` python
+
 ### Insert() method
+``` python
 a=["apple","mango","orange"]
 x=a.insert(3,"gauva")
 
 >>x=['apple','mango','orange','gauva']
 ```
-``` python
+
 ### Pop() method
+``` python
 a=["apple","mango","orange"]
 a.pop(1)
 
 >>a=['apple','orange']
 ```
-``` python
+
 ### Remove() method
+``` python
 a=["apple","mango","orange"]
 a.remove("mango")
 
 >>a=['apple','orange']
 ```
-``` python
+
 ### Reverse() method
+``` python
 a=["apple","mango","orange"]
 a.reverse()
 
 >>a=['orange','mango','apple']
 ```
-``` python
+
 ### Sort() method
+``` python
 a=["apple","mango","banana","gauva","orange"]
 a.sort()
 
